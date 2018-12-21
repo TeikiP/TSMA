@@ -1,0 +1,3 @@
+#!/autofs/unityaccount/cremi/tepepin/TSMA/Project/bin/python3.5
+from numba.pycc import main
+main()
